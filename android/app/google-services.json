@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508454540767",
+    "project_id": "on-baleh-7dd70",
+    "storage_bucket": "on-baleh-7dd70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508454540767:android:5b71f68692edb3d05ba06a",
+        "android_client_info": {
+          "package_name": "com.example.on_baleh_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508454540767-obiejrm5cmkfg97ejcpbmj9fndsalk6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo1Jzg3qN82wK7sjSGvEW_J8fDJDjuaNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508454540767-obiejrm5cmkfg97ejcpbmj9fndsalk6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
